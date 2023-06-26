@@ -1,2 +1,4 @@
-# GraphQL Endpoint
-GraphQL endpoint at http://localhost:8000/graphql.
+# first GraphQL Endpoint
+
+http://localhost:8000/graphql.
+
